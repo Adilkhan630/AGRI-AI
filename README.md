@@ -106,7 +106,7 @@ croprecommender/
 
 ## Developed by
 
-**Awanit Kumar Singh**  
+**Adil Khan**  
 Final Year CSE — Lovely Professional University, Punjab  
-📧 awanitsingh8873@gmail.com  
-🐙 [github.com/awanitsingh](https://github.com/awanitsingh)
+📧 adilkhan.5786.com@gmail.com  
+🐙 [github.com/Adilkhan630](https://github.com/Adilkhan630)
